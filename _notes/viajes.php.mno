@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Viajeros" value="name:id_viajero;datatype:int,name:nombre_viajero;datatype:string,name:fecha_viaje;datatype:date,name:url_boleto_avion;datatype:string" />
+</info>
